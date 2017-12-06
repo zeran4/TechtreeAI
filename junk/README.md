@@ -1,5 +1,6 @@
-# TechtreeAI
+# TechtreeAI - junk
 
-AI 학습법 - 본인에게 적절한 Techtree를 찾은 후 포기만 하지 않으면 학습이 되도록 Techtree를 발굴해보자
+정리하기 전에 쌓아두는 곳 or 참고 URL
 
-start : document/deeplearning.pptx
+A curated list of awesome deep vision web demo : https://github.com/hwalsuklee/awesome-deep-vision-web-demo
+
